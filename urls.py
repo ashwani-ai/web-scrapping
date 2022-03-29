@@ -57,14 +57,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>Web-Scraper/README.md at main · Susheel99/Web-Scraper</title>
+  <title>Web-Scraper/urls.py at main · Susheel99/Web-Scraper</title>
     <meta name="description" content="Contribute to Susheel99/Web-Scraper development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/94b872b6e60f9980f37ef675c958671bcc2dd54a4d6e41501f0d1678e90b18c9/Susheel99/Web-Scraper" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Web-Scraper/README.md at main · Susheel99/Web-Scraper" /><meta name="twitter:description" content="Contribute to Susheel99/Web-Scraper development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/94b872b6e60f9980f37ef675c958671bcc2dd54a4d6e41501f0d1678e90b18c9/Susheel99/Web-Scraper" /><meta property="og:image:alt" content="Contribute to Susheel99/Web-Scraper development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Web-Scraper/README.md at main · Susheel99/Web-Scraper" /><meta property="og:url" content="https://github.com/Susheel99/Web-Scraper" /><meta property="og:description" content="Contribute to Susheel99/Web-Scraper development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/94b872b6e60f9980f37ef675c958671bcc2dd54a4d6e41501f0d1678e90b18c9/Susheel99/Web-Scraper" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Web-Scraper/urls.py at main · Susheel99/Web-Scraper" /><meta name="twitter:description" content="Contribute to Susheel99/Web-Scraper development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/94b872b6e60f9980f37ef675c958671bcc2dd54a4d6e41501f0d1678e90b18c9/Susheel99/Web-Scraper" /><meta property="og:image:alt" content="Contribute to Susheel99/Web-Scraper development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Web-Scraper/urls.py at main · Susheel99/Web-Scraper" /><meta property="og:url" content="https://github.com/Susheel99/Web-Scraper" /><meta property="og:description" content="Contribute to Susheel99/Web-Scraper development by creating an account on GitHub." />
     
 
 
@@ -72,11 +72,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/79042949/ws?session=eyJ2IjoiVjMiLCJ1Ijo3OTA0Mjk0OSwicyI6ODUwODI0MDI1LCJjIjo4MjY5MzEzOTIsInQiOjE2NDg1NzE0MjB9--0fd111e52232562c19ce6209f7af56f345041378b60ce6e6d4746d3622bbbda8" data-refresh-url="/_alive" data-session-id="33d1e9d01a4ec45217b0d8b8b4dc03067198ca229b8d4e7b22cfa4c47ff7ef69">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/79042949/ws?session=eyJ2IjoiVjMiLCJ1Ijo3OTA0Mjk0OSwicyI6ODUwODI0MDI1LCJjIjozMjkwNzI1NzkxLCJ0IjoxNjQ4NTcxNTQwfQ==--d45c8ec23df0611e96734f7d5f9e57dd4fdee7167a2d23bd88c2bb8785eb2105" data-refresh-url="/_alive" data-session-id="33d1e9d01a4ec45217b0d8b8b4dc03067198ca229b8d4e7b22cfa4c47ff7ef69">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-dae024e51136.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="E443:5276:100551C:14FF1BF:6243341B" data-pjax-transient="true" /><meta name="html-safe-nonce" content="a1e1d9de1304e81e034be8bea999b511447992da627e98eeb784de7a4b8998c2" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9TdXNoZWVsOTkvV2ViLVNjcmFwZXIvZmluZC9tYWluIiwicmVxdWVzdF9pZCI6IkU0NDM6NTI3NjoxMDA1NTFDOjE0RkYxQkY6NjI0MzM0MUIiLCJ2aXNpdG9yX2lkIjoiNDcwNDgyNzA2NzM4NjA3NzI2NCIsInJlZ2lvbl9lZGdlIjoiYXAtc291dGgtMSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="5492d949c4b043b6a1128211ca65f4819b7ffe0b4fd70b7d47dc3ce910618ebe" data-pjax-transient="true" />
+  <meta name="request-id" content="E46A:23DF:318F7:829F1:62433494" data-pjax-transient="true" /><meta name="html-safe-nonce" content="a1e1d9de1304e81e034be8bea999b511447992da627e98eeb784de7a4b8998c2" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9TdXNoZWVsOTkvV2ViLVNjcmFwZXIvZmluZC9tYWluIiwicmVxdWVzdF9pZCI6IkU0NkE6MjNERjozMThGNzo4MjlGMTo2MjQzMzQ5NCIsInZpc2l0b3JfaWQiOiI0NzA0ODI3MDY3Mzg2MDc3MjY0IiwicmVnaW9uX2VkZ2UiOiJhcC1zb3V0aC0xIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="fb307e659a9ea17e6f368af6cc819e797ccf094814214889774c3e03810170c9" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:370770899" data-pjax-transient>
 
@@ -112,7 +112,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="OTRiMzdiMDQ1MzMyNDJjYzM3ZTUwZDRkZGVhN2JiNWU5NzNmMjVhNzdkYzY4NDA3Y2FiNjdjYmYyMGJjYjE1Nnx7InJlbW90ZV9hZGRyZXNzIjoiMTQuMTM5LjE4Ny4xMTAiLCJyZXF1ZXN0X2lkIjoiRTQ0Mzo1Mjc2OjEwMDU1MUM6MTRGRjFCRjo2MjQzMzQxQiIsInRpbWVzdGFtcCI6MTY0ODU3MTQyMCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="ZmQzYWMwYmIxZjI4N2EwZGMzZDY1MDhiNTViNTlmMjMxOGMzNDAxNzY1Y2EzZjAyZTNhYTE3ODNlNWZmOGRlZXx7InJlbW90ZV9hZGRyZXNzIjoiMTQuMTM5LjE4Ny4xMTAiLCJyZXF1ZXN0X2lkIjoiRTQ2QToyM0RGOjMxOEY3OjgyOUYxOjYyNDMzNDk0IiwidGltZXN0YW1wIjoxNjQ4NTcxNTQwLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="ACTIONS_CALLABLE_WORKFLOWS,MARKETPLACE_PENDING_INSTALLATIONS,PRESENCE_IDLE">
 
@@ -130,7 +130,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/Susheel99/Web-Scraper/blob/main/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/Susheel99/Web-Scraper/blob/main/mysite/urls.py" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -219,7 +219,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="Xt6Zqeaq0QUb4IUGBRvfHULU09l71cPuqf97EI1ytKr8Er_AjvT0drIIc4EaXKk7QEbu9_sPA1L5QvYUyz22eQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="7UZ3nMwQOOO6vSJTjai6LeQKi1QSSUHFVaz7dmFKiSpPilH1pE4dkBNV1NSS78wL5pi2epKTgXkFEXZyJwWL-Q" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -418,7 +418,7 @@
 
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-turbo="false" data-selected-links="/codespaces /codespaces" href="/codespaces">Codespaces</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;ashwani-ai&quot;,&quot;originating_url&quot;:&quot;https://github.com/Susheel99/Web-Scraper/blob/main/README.md&quot;,&quot;user_id&quot;:79042949}}" data-hydro-click-hmac="0c29f7ebf330add41925466edbf8008aa1597b7b37a873fb695007e879b3d1ce" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;ashwani-ai&quot;,&quot;originating_url&quot;:&quot;https://github.com/Susheel99/Web-Scraper/blob/main/mysite/urls.py&quot;,&quot;user_id&quot;:79042949}}" data-hydro-click-hmac="598e09116deb31f29daff1e4213bf454c145e3d40012a7878ebd27464808c567" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -426,7 +426,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/79042949?s=40&amp;v=4" width="20" height="20" alt="@ashwani-ai" />
       ashwani-ai
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="p18Ifke6DjiKFh0dkqi8gdgIeMJaZnKnh2zASJP5eOIPW-gfix9Ed48WdL9Vdc-rRPDvq7--kntcJ0q0JsAt8Q" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ftjb0_MHJEiL_meiCipnzDZ8KvNScMyXlYkan6mpoA_W3DuyP6JuB47-DgDN9xTmqoS9mreoLEtOwpBjHJD1HA" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -465,7 +465,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzkwNDI5NDkiLCJ0IjoxNjQ4NTcxNDIwfQ==--164205fc2c8abc75468cca323c2f76a3927867bad2455236031191330e11d1bf">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzkwNDI5NDkiLCJ0IjoxNjQ4NTcxNTQwfQ==--8fc7f57717124ae36a3de6e429540f4ccb51ebdf574d651b476c0d7e8f192884">
         <a href="/notifications"
           data-turbo=false
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
@@ -602,7 +602,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      data-return-to=/Susheel99/Web-Scraper/blob/main/README.md
+      data-return-to=/Susheel99/Web-Scraper/blob/main/mysite/urls.py
       data-user-id="79042949"
       data-activation-hotkey="Mod+k,Mod+Alt+k"
       data-command-mode-hotkey="Mod+Shift+k"
@@ -615,7 +615,7 @@
 
 
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="XwveGudVTcTUucYbIpmWYVQUE4AY12ghvXjah_KPtcSHHE4hJlHXP2b-xUsGCH2SAcAMdxBTlHNhx0pH6owRzA" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="cKSZewa6lJ30q11zDvTVIVyQOyTDgBE5OWImo7XJdauoswlAx74OZkbsXiMqZT7SCUQk08sE7Wvl3bZjrcrRow" data-csrf="true" class="js-color-mode-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -1503,7 +1503,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:370770899,&quot;originating_url&quot;:&quot;https://github.com/Susheel99/Web-Scraper/blob/main/README.md&quot;,&quot;user_id&quot;:79042949}}" data-hydro-click-hmac="c8f7cca26de268d0759b79ef07e06c1c8bf4d59aaebfc13c8a1a6f0376ff56f1" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:370770899,&quot;originating_url&quot;:&quot;https://github.com/Susheel99/Web-Scraper/blob/main/mysite/urls.py&quot;,&quot;user_id&quot;:79042949}}" data-hydro-click-hmac="68147ffbf53a2461e0f96b28c06fd9b8e9c2f74a6285a00940ffe7d79879abdd" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
             <span
               hidden
               
@@ -1555,7 +1555,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="19oQLPJ7uLOPSiwaMpvUXPOX1JHY08Esdz1raxkdaONp__3ZxXh3wBMEcDF9B-D43os0NfC9bXV9tk7Ociee8A" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="87cD-4zbG-uXAuoJeW91VuJXwml-tp2c4ltoFEQnlh9Nku4Ou9jUmAtMtiI280Hyz0sizVbYMcXo0E2xLx1gDA" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="370770899">
 
@@ -1683,7 +1683,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="l_cjCfGIGpjpuUGH2-BcLeiuPGsR8g6gZFXU8DTo94Qp0s78xovV63X3HayUfGiJxbLczzmcovlu3vFVX9IBlw" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Xz4w497kEwe0YCS07ZrVWqMswPVWqy9nV8Vda5zBdcnhG90W6efcdCgueJ-iBuH-jjAgUX7Fgz5dTnjO9_uD2g" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="370770899">
 
@@ -1828,8 +1828,8 @@
   </li>
 
   <li>
-            <form class="btn-with-count" data-turbo="false" action="/Susheel99/Web-Scraper/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="_9JGIg3Q3E1o6kG8Qjv2SdqiW3x8EYD_0i_W1ECCXubriNG9NHjOAoaFIHP-HML7UvoAIDEGzu3-cX0PKFnEug" autocomplete="off" />
-        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:370770899,&quot;originating_url&quot;:&quot;https://github.com/Susheel99/Web-Scraper/blob/main/README.md&quot;,&quot;user_id&quot;:79042949}}" data-hydro-click-hmac="3692c29e70b716e01d1e0144abf87929450c9a803dbd8d5ba139f07e594a1a64" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of Susheel99/Web-Scraper to your account" type="submit" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+            <form class="btn-with-count" data-turbo="false" action="/Susheel99/Web-Scraper/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="i7ezE7SpCTYxKBMM9Ci2yMQfMgCtuYW-M_taJ2TDjzif7SSMjQEbed9HcsNID4J6TEdpXOCuy6wfpfH8DBgVZA" autocomplete="off" />
+        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:370770899,&quot;originating_url&quot;:&quot;https://github.com/Susheel99/Web-Scraper/blob/main/mysite/urls.py&quot;,&quot;user_id&quot;:79042949}}" data-hydro-click-hmac="86e63d772f6078b6d1e5b10c041e3fe2c09b81110a5b055cb4a0d7bbe87b175b" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of Susheel99/Web-Scraper to your account" type="submit" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" title="0" data-view-component="true" class="Counter">0</span>
@@ -1856,18 +1856,18 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Susheel99/Web-Scraper/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="fP06xSiKqXvAuh-EroArAu0oD3GhU426V29UlqdM31aMcwNdgKaTZcojvac5Vr2fgwss6F3L3kmLOIQZQ2p2gw" autocomplete="off" />
-        <input type="hidden" value="X5taqWth8vqmxAti4Vx6zGR9vC-PnSvJxSAtet24wj6vFWMxw03I5KxdqUF2iuxRCl6ftnMFeDoZd_31OZ5r6w" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Susheel99/Web-Scraper/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7AQcCI8NqL2bQ6ViFWTre-_L1VvoyKzylQ3UcTEd8gIciiWQJyGSo5HaB0GCsn3mgej2whRQ_wFJWgT-1Ttb1w" autocomplete="off" />
+        <input type="hidden" value="kwdUbzZr47LKv_U9fWWCo-erMl1Tnfw7nlJ8Q14zd55jiW33nkfZrMAmVx7qsxQ-iYgRxK8Fr8hCBazMuhXeSw" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:370770899,&quot;originating_url&quot;:&quot;https://github.com/Susheel99/Web-Scraper/blob/main/README.md&quot;,&quot;user_id&quot;:79042949}}" data-hydro-click-hmac="54665e7cfcad53c520559056ae135cd79521ffa74ae265b5e485b6e2f6d8901b" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:370770899,&quot;originating_url&quot;:&quot;https://github.com/Susheel99/Web-Scraper/blob/main/mysite/urls.py&quot;,&quot;user_id&quot;:79042949}}" data-hydro-click-hmac="960db7e724100950b15964bf02015dacb39ba403dd1572c2539bed0396e3cac9" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Susheel99/Web-Scraper/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="uuNY59m06Vl5z1ObQ0GbDEGx1kA7GU60KSeiKPTn_s7t5XQyktTHCkWNIKfuUwez3hAu6swW_gSD3HDxaF3C0g" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Susheel99/Web-Scraper/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="EU36s53AeZFt5I8q3KWQBMlpKeOcAw6ffJh8--dCw0BGS9Zm1qBXwlGm_BZxtwy7VsjRSWsMvi_WY64ie_j_XA" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:370770899,&quot;originating_url&quot;:&quot;https://github.com/Susheel99/Web-Scraper/blob/main/README.md&quot;,&quot;user_id&quot;:79042949}}" data-hydro-click-hmac="e6948af16cf114ee7dd20a84f69755a32b8a37ec3af8f2668810d600e198722c" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:370770899,&quot;originating_url&quot;:&quot;https://github.com/Susheel99/Web-Scraper/blob/main/mysite/urls.py&quot;,&quot;user_id&quot;:79042949}}" data-hydro-click-hmac="584b39f2a5ee293d2bc4c20a879551636591d7daba9090fdf488d98e137f2c2f" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -1886,13 +1886,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-7d0994">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-16642a">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-7d0994"
+        id="filter-menu-16642a"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2095,7 +2095,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Susheel99/Web-Scraper/blob/ed79b7270a0afc2e526a441e2368bc1ab3bec612/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Susheel99/Web-Scraper/blob/ed79b7270a0afc2e526a441e2368bc1ab3bec612/mysite/urls.py">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2180,7 +2180,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Susheel99/Web-Scraper/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Susheel99/Web-Scraper/blob/{{ urlEncodedRefName }}/mysite/urls.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2220,7 +2220,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Susheel99/Web-Scraper/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Susheel99/Web-Scraper/blob/{{ urlEncodedRefName }}/mysite/urls.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2251,7 +2251,48 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Susheel99/Web-Scraper"><span>Web-Scraper</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Susheel99/Web-Scraper"><span>Web-Scraper</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Susheel99/Web-Scraper/tree/main/mysite"><span>mysite</span></a></span><span class="separator">/</span><strong class="final-path">urls.py</strong>
+      <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
+  <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:370770899,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;originating_url&quot;:&quot;https://github.com/Susheel99/Web-Scraper/blob/main/mysite/urls.py&quot;,&quot;user_id&quot;:79042949}}" data-hydro-click-hmac="4e839f72a38cab1d015bb1589164565c51e95727a80d9293592f2a966d0ad2ed" data-view-component="true" class="Link--secondary css-truncate btn-link">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
+</svg>
+    <span data-menu-button>Jump to</span>
+    <span class="dropdown-caret"></span>
+</summary>  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
+    <div class="SelectMenu-modal">
+      <header class="SelectMenu-header">
+        <span class="SelectMenu-title">Code definitions</span>
+        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
+          <svg aria-label="Close menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+        </button>
+      </header>
+        <div class="SelectMenu-filter">
+          <input
+            class="SelectMenu-input form-control js-filterable-field"
+            id="jumpto-symbols-filter-field"
+            type="text"
+            autocomplete="off"
+            spellcheck="false"
+            autofocus
+            placeholder="Filter definitions"
+            aria-label="Filter definitions">
+        </div>
+      <div class="SelectMenu-list">
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+        </div>
+      </div>
+      <footer class="SelectMenu-footer">
+        <div class="d-flex flex-justify-between">
+          Code navigation index up-to-date
+          <svg class="octicon octicon-dot-fill text-green" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+        </div>
+      </footer>
+    </div>
+  </details-menu>
+</details>
+
   </h2>
   <a href="/Susheel99/Web-Scraper/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="js-pjax-capture-input btn mr-2 d-none d-md-block">  Go to file
 </a>
@@ -2262,7 +2303,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:370770899,&quot;originating_url&quot;:&quot;https://github.com/Susheel99/Web-Scraper/blob/main/README.md&quot;,&quot;user_id&quot;:79042949}}" data-hydro-click-hmac="d40215962043b08285b8d18c76e96adecba27aa5db369d2785ab003cfb5f4a38" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Susheel99/Web-Scraper/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:370770899,&quot;originating_url&quot;:&quot;https://github.com/Susheel99/Web-Scraper/blob/main/mysite/urls.py&quot;,&quot;user_id&quot;:79042949}}" data-hydro-click-hmac="22a14c0a0267c0288f0a6bd065affe4e74e91d19546be1fff7333098cd1a4a54" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Susheel99/Web-Scraper/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2272,15 +2313,21 @@
               <span class="text-small color-fg-muted" aria-hidden="true">L</span>
             </span>
 </button>        </li>
+        <li data-toggle-for="blob-more-options-details">
+          <button data-toggle-for="jumpto-symbol-select-menu" type="button" data-view-component="true" class="dropdown-item btn-link">  <span class="d-flex flex-items-baseline">
+              <span class="flex-auto">Go to definition</span>
+              <span class="text-small color-fg-muted" aria-hidden="true">R</span>
+            </span>
+</button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="mysite/urls.py" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Susheel99/Web-Scraper/blob/ed79b7270a0afc2e526a441e2368bc1ab3bec612/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Susheel99/Web-Scraper/blob/ed79b7270a0afc2e526a441e2368bc1ab3bec612/mysite/urls.py" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2312,80 +2359,17 @@
     <include-fragment src="/Susheel99/Web-Scraper/spoofed_commit_check/ed79b7270a0afc2e526a441e2368bc1ab3bec612" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  
-  <div class="Box-header Details js-details-container">
-      <div class="d-flex flex-items-center">
-        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/Susheel99/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Susheel99"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/64949318?s=48&amp;v=4" width="24" height="24" alt="@Susheel99" /></a>
-        </span>
-        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
-          <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/Susheel99/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Susheel99">Susheel99</a>
+  <include-fragment src="/Susheel99/Web-Scraper/contributors/main/mysite/urls.py" class="commit-loader">
+    <div class="Box-header d-flex flex-items-center">
+      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
+    </div>
 
-              <span class="markdown-title">
-                <a data-pjax="true" title="Initial commit" class="Link--secondary" href="/Susheel99/Web-Scraper/commit/cd526bcc63cdb3be55613d11911fd5247a296ae0">Initial commit</a>
-              </span>
-          </div>
-
-
-          <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/Susheel99/Web-Scraper/commit/cd526bcc63cdb3be55613d11911fd5247a296ae0/rollup?direction=e" class="d-inline"></include-fragment>
-          </span>
-        </div>
-        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
-          <span class="d-none d-md-inline">
-            <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/Susheel99/Web-Scraper/commit/cd526bcc63cdb3be55613d11911fd5247a296ae0" data-pjax>cd526bc</a>
-            <span itemprop="dateModified"><relative-time datetime="2021-05-25T17:10:35Z" class="no-wrap">May 25, 2021</relative-time></span>
-          </span>
-
-          <a data-pjax href="/Susheel99/Web-Scraper/commits/main/README.md" class="ml-3 no-wrap Link--primary no-underline">
-            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
-    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
-</svg>
-            <span class="d-none d-sm-inline">
-              <strong>History</strong>
-            </span>
-          </a>
-        </div>
-      </div>
-
-  </div>
-
-  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
-    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
-      <summary class="Link--primary">
-        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
-    <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
-</svg>
-        <strong>1</strong>
-        
-        contributor
-      </summary>
-      <details-dialog
-        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-        aria-label="Users who have contributed to this file"
-        src="/Susheel99/Web-Scraper/contributors-list/main/README.md" preload>
-        <div class="Box-header">
-          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
-</svg>
-          </button>
-          <h3 class="Box-title">
-            Users who have contributed to this file
-          </h3>
-        </div>
-        <include-fragment>
-          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg>
-        </include-fragment>
-      </details-dialog>
-    </details>
-  </div>
-</div>
+    <div class="Box-body d-flex flex-items-center" >
+      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
+      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
+    </div>
+</include-fragment></div>
 
 
 
@@ -2408,31 +2392,23 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      1 lines (1 sloc)
+      25 lines (22 sloc)
       <span class="file-info-divider"></span>
-    13 Bytes
+    860 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-        <div class="BtnGroup">
-    <a href="/Susheel99/Web-Scraper/blob/main/README.md?plain=1" data-permalink-href="/Susheel99/Web-Scraper/blob/ed79b7270a0afc2e526a441e2368bc1ab3bec612/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
-    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
-</svg>
-</a>    <a href="/Susheel99/Web-Scraper/blob/main/README.md" data-permalink-href="/Susheel99/Web-Scraper/blob/ed79b7270a0afc2e526a441e2368bc1ab3bec612/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
-    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
-</svg>
-</a>  </div>
-
+      
 
     <div class="BtnGroup">
-      <a data-permalink-href="/Susheel99/Web-Scraper/raw/ed79b7270a0afc2e526a441e2368bc1ab3bec612/README.md" href="/Susheel99/Web-Scraper/raw/main/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
-</a>        <a data-permalink-href="/Susheel99/Web-Scraper/blame/ed79b7270a0afc2e526a441e2368bc1ab3bec612/README.md" href="/Susheel99/Web-Scraper/blame/main/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
+      <a data-permalink-href="/Susheel99/Web-Scraper/raw/ed79b7270a0afc2e526a441e2368bc1ab3bec612/mysite/urls.py" href="/Susheel99/Web-Scraper/raw/main/mysite/urls.py" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
+</a>        <a data-permalink-href="/Susheel99/Web-Scraper/blame/ed79b7270a0afc2e526a441e2368bc1ab3bec612/mysite/urls.py" href="/Susheel99/Web-Scraper/blame/main/mysite/urls.py" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
 </a>    </div>
 
     <div>
           <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
              data-platforms="windows,mac"
-             href="x-github-client://openRepo/https://github.com/Susheel99/Web-Scraper?branch=main&amp;filepath=README.md"
+             href="x-github-client://openRepo/https://github.com/Susheel99/Web-Scraper?branch=main&amp;filepath=mysite%2Furls.py"
              aria-label="Open this file in GitHub Desktop"
              data-ga-click="Repository, open with desktop">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-desktop">
@@ -2440,11 +2416,11 @@
 </svg>
           </a>
 
-        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Susheel99/Web-Scraper/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Susheel99/Web-Scraper/raw/main/mysite/urls.py" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
 
-  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:370770899,&quot;originating_url&quot;:&quot;https://github.com/Susheel99/Web-Scraper/blob/main/README.md&quot;,&quot;user_id&quot;:79042949}}" data-hydro-click-hmac="228e9185db5d1eb2b6b2e0ed8d9b0a0d4a21f2db5063c86805b26efec25a3a77" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:370770899,&quot;originating_url&quot;:&quot;https://github.com/Susheel99/Web-Scraper/blob/main/mysite/urls.py&quot;,&quot;user_id&quot;:79042949}}" data-hydro-click-hmac="adda9f1b48b9d219b9eb86a02a585450d04e6509a14258b96513fbad322ddfa0" aria-label="Copy raw contents">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2467,7 +2443,7 @@
             </span>
 </span>
 </remote-clipboard-copy>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/Susheel99/Web-Scraper/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="aWXz72aVYLOf2RexnlYZT2YtextTPTUuFyFHD67LOjl8UJoJLDLHUBJnq5iqKux4QxrgmA7YERvju6Cg_pTSnA" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/Susheel99/Web-Scraper/edit/main/mysite/urls.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="l2PwNiK68hCs_BefRUZwwVVi8r7XzT4jb1FfZ4OkzQvKLgCrrq8S7UTlnU1mKmpHCS-WIpYYYRctaPSTEGyEUA" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -2475,7 +2451,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Susheel99/Web-Scraper/delete/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="479Gb0MjQ8U4YOrRL6grJPV09QA_hvAaZZJIRIT0n_31dcfFDD_CtRX-_HOTZIRimSHvZPhhX5e5dun1q8GsdQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Susheel99/Web-Scraper/delete/main/mysite/urls.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="4zKZvU7iYgHuEcBDnYEPmmMyTANvav8Mzsie4yJriVacB8TwKKp-_qeW3h9xueaamqaUNRa6H2tWUHpkInhg4g" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2497,21 +2473,21 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/Susheel99/Web-Scraper?branch=main&amp;filepath=README.md"
+                   href="x-github-client://openRepo/https://github.com/Susheel99/Web-Scraper?branch=main&amp;filepath=mysite%2Furls.py"
                    data-ga-click="Repository, open with desktop">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/Susheel99/Web-Scraper/raw/main/README.md">
+            <a class="dropdown-item" href="/Susheel99/Web-Scraper/raw/main/mysite/urls.py">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/Susheel99/Web-Scraper/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/Susheel99/Web-Scraper/raw/main/mysite/urls.py" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:370770899,&quot;originating_url&quot;:&quot;https://github.com/Susheel99/Web-Scraper/blob/main/README.md&quot;,&quot;user_id&quot;:79042949}}" data-hydro-click-hmac="228e9185db5d1eb2b6b2e0ed8d9b0a0d4a21f2db5063c86805b26efec25a3a77">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:370770899,&quot;originating_url&quot;:&quot;https://github.com/Susheel99/Web-Scraper/blob/main/mysite/urls.py&quot;,&quot;user_id&quot;:79042949}}" data-hydro-click-hmac="adda9f1b48b9d219b9eb86a02a585450d04e6509a14258b96513fbad322ddfa0">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2534,17 +2510,17 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/Susheel99/Web-Scraper/blame/main/README.md">
+              <a class="dropdown-item" href="/Susheel99/Web-Scraper/blame/main/mysite/urls.py">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/Susheel99/Web-Scraper/edit/main/README.md">Edit file</a>
+                <a class="dropdown-item" href="/Susheel99/Web-Scraper/edit/main/mysite/urls.py">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/Susheel99/Web-Scraper/delete/main/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/Susheel99/Web-Scraper/delete/main/mysite/urls.py">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2552,9 +2528,168 @@
 </div>
 
 
-        <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-web-scraper" class="anchor" aria-hidden="true" href="#web-scraper"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Web-Scraper</h1>
-</article>
+      
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-python  gist-border-0">
+
+      
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+  
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">  Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+</span></template>
+
+  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="Python" data-tagsearch-path="mysite/urls.py">
+        <tr>
+          <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-s>&quot;&quot;&quot;mysite URL Configuration</span></td>
+        </tr>
+        <tr>
+          <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-s></span></td>
+        </tr>
+        <tr>
+          <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-s>The `urlpatterns` list routes URLs to views. For more information please see:</span></td>
+        </tr>
+        <tr>
+          <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-s>    https://docs.djangoproject.com/en/3.2/topics/http/urls/</span></td>
+        </tr>
+        <tr>
+          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class=pl-s>Examples:</span></td>
+        </tr>
+        <tr>
+          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class=pl-s>Function views</span></td>
+        </tr>
+        <tr>
+          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class=pl-s>    1. Add an import:  from my_app import views</span></td>
+        </tr>
+        <tr>
+          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class=pl-s>    2. Add a URL to urlpatterns:  path(&#39;&#39;, views.home, name=&#39;home&#39;)</span></td>
+        </tr>
+        <tr>
+          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class=pl-s>Class-based views</span></td>
+        </tr>
+        <tr>
+          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class=pl-s>    1. Add an import:  from other_app.views import Home</span></td>
+        </tr>
+        <tr>
+          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class=pl-s>    2. Add a URL to urlpatterns:  path(&#39;&#39;, Home.as_view(), name=&#39;home&#39;)</span></td>
+        </tr>
+        <tr>
+          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class=pl-s>Including another URLconf</span></td>
+        </tr>
+        <tr>
+          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class=pl-s>    1. Import the include() function: from django.urls import include, path</span></td>
+        </tr>
+        <tr>
+          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class=pl-s>    2. Add a URL to urlpatterns:  path(&#39;blog/&#39;, include(&#39;blog.urls&#39;))</span></td>
+        </tr>
+        <tr>
+          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class=pl-s>&quot;&quot;&quot;</span></td>
+        </tr>
+        <tr>
+          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class=pl-k>from</span> <span class=pl-s1>django</span>.<span class=pl-s1>contrib</span> <span class=pl-k>import</span> <span class=pl-s1>admin</span></td>
+        </tr>
+        <tr>
+          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class=pl-k>from</span> <span class=pl-s1>django</span>.<span class=pl-s1>urls</span> <span class=pl-k>import</span> <span class=pl-s1>path</span></td>
+        </tr>
+        <tr>
+          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class=pl-k>from</span> <span class=pl-s1>myapp</span> <span class=pl-k>import</span> <span class=pl-s1>views</span></td>
+        </tr>
+        <tr>
+          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>urlpatterns</span> <span class=pl-c1>=</span> [</td>
+        </tr>
+        <tr>
+          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">    <span class=pl-en>path</span>(<span class=pl-s>&#39;&#39;</span>,<span class=pl-s1>views</span>.<span class=pl-s1>scrape</span>,<span class=pl-s1>name</span><span class=pl-c1>=</span><span class=pl-s>&#39;scrape&#39;</span>),</td>
+        </tr>
+        <tr>
+          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">    <span class=pl-en>path</span>(<span class=pl-s>&#39;admin/&#39;</span>, <span class=pl-s1>admin</span>.<span class=pl-s1>site</span>.<span class=pl-s1>urls</span>),</td>
+        </tr>
+        <tr>
+          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">    <span class=pl-en>path</span>(<span class=pl-s>&#39;delete/&#39;</span>,<span class=pl-s1>views</span>.<span class=pl-s1>clear</span>,<span class=pl-s1>name</span><span class=pl-c1>=</span><span class=pl-s>&quot;clear&quot;</span>),</td>
+        </tr>
+        <tr>
+          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">]</td>
+        </tr>
+  </table>
+</div>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 color-bg-default border color-border-default rounded-2" aria-label="Inline file action toolbar">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+    </summary>
+    <details-menu>
+
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se ml-2 mt-2"
+      style="width:185px"
+      >
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" aria-label="Copy lines">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" aria-label="Copy permalink">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Susheel99/Web-Scraper/blame/ed79b7270a0afc2e526a441e2368bc1ab3bec612/mysite/urls.py">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/Susheel99/Web-Scraper/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
   </div>
 
     </div>
